@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://79.110.234.144/vlogo.gif"  />
+<img align="right" src="http://79.110.234.144/vlogo.gif"  />
 
 ###
 
@@ -31,11 +31,5 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
