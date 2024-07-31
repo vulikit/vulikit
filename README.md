@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" src="http://79.110.234.144/vlogo.gif"  />
+<img align="right" width="30%" src="http://79.110.234.144/vlogo.gif"  />
 
 ###
 
